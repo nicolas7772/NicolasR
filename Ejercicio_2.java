@@ -4,7 +4,7 @@ package Taller1;
 import java.util.Scanner;
 
 
-public class ejericicio2 {
+public class ejercicio_2 {
     public static void main (String[] args) {
         
         Scanner consola = new Scanner(System.in);
